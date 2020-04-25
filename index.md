@@ -1,1 +1,2 @@
-[file in A](folderB/file.md) \n [File in A](folderA/file.md)
+[file in A (Symlink)](folderA/file.md) 
+[File in B (physical)](folderB/file.md)
